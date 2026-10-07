@@ -1,6 +1,8 @@
 use crate::helper::Helper::CLI;
 
 mod helper;
+mod models;
+mod random;
 
 fn main() {
     let mut clargs = CLI::new();

@@ -1,0 +1,12 @@
+Cell -> Node/process
+Molecule/species -> State variable
+Receptor -> Local rule inspecting neighbor state
+Secretion -> Broadcast/gossip
+Diffusion -> State propagation to neighbors
+Concentration -> Strength/confidence of a state
+Degradation -> Aging/decay of stale information
+Binding threshold -> Decision threshold
+Positive feedback -> Reinforcement of a candidate
+Inhibition -> Suppression of conflicting candidates
+Local equilibrium -> Consensus
+Cell death -> Node failure
